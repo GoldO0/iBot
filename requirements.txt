@@ -101,7 +101,9 @@ tbb==2021.12.0
 threadpoolctl==3.5.0
 tk==0.1.0
 tokenizers==0.19.1
-torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cpu
 tqdm==4.66.4
 transformers==4.41.0
 typing_extensions==4.11.0
